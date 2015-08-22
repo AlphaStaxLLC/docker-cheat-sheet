@@ -28,7 +28,9 @@ Docker helps developers build and ship higher-quality applications, faster." -- 
 
 ## Prerequisites
 
-I use [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) with the [Docker plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#docker) for autocompletion of docker commands.  YMMV.
+[Fish Shell](https://github.com/robbyrussell/oh-my-zsh) [Docker plugin](https://github.com/barnybug/docker-fish-completion) for autocompletion of docker commands.
+
+[Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) [Docker plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#docker) for autocompletion of docker commands.
 
 ### Linux
 
